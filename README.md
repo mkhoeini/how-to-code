@@ -19,7 +19,7 @@ how-to-code
 1. Think about what you want to code
 ---
 
-These days it becomes increasingly easier to just start to code. People just get a stroke of an idea and then they open their code editor, search github, npm, pipy for relevant peases of code and start to implement it. But it is not a good way. You should dedicate some time to think about what you finaly want to achive, How the API will look like in the end, etc. even before you start to code.
+These days it becomes increasingly easier to just start to code. People just get a stroke of an idea and then they open their code editor, search github, npm, pipy for relevant pieces of code and start to implement it. But it is not a good way. You should dedicate some time to think about what you finaly want to achive, How the API will look like in the end, etc. even before you start to code.
 
 [2]: #2-create-the-github-repository
 2. Create the github repository
